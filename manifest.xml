@@ -111,8 +111,8 @@
         <iq:permissions>
             <iq:uses-permission id="Fit"/>
             <!-- Custom FIT fields: the shark gap as a per-second graph over
-                 the swim, and the distance the game counted as a session
-                 total. -->
+                 the swim, and the time survived after the release as a
+                 session total. -->
             <iq:uses-permission id="FitContributor"/>
             <iq:uses-permission id="Positioning"/>
         </iq:permissions>
