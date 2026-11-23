@@ -1,19 +1,19 @@
 <svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
-  <rect width="240" height="240" rx="44" fill="#3d0508"/>
-  <rect x="14" y="14" width="212" height="212" rx="34" fill="#031524"/>
-  <rect x="14" y="128" width="212" height="98" fill="#0a3a50"/>
-  <!-- dorsal fin cutting the surface, the one shape that has to read at 30px -->
-  <polygon points="140,40 92,130 160,130" fill="#6a8293"/>
-  <polygon points="104,130 140,40 124,130" fill="#3e5262"/>
-  <!-- fangs, top and bottom, one bloody -->
-  <g fill="#f3ead6">
-    <polygon points="30,14 54,14 42,52"/><polygon points="66,14 90,14 78,40"/>
-    <polygon points="150,14 174,14 162,40"/><polygon points="186,14 210,14 198,52"/>
-    <polygon points="30,226 54,226 42,188"/><polygon points="66,226 90,226 78,200"/>
-    <polygon points="150,226 174,226 162,200"/><polygon points="186,226 210,226 198,188"/>
+  <!-- Night sky over deep water -->
+  <rect width="240" height="240" fill="#02080d"/>
+  <rect y="150" width="240" height="90" fill="#0f5068"/>
+  <rect y="176" width="240" height="64" fill="#0a3a50"/>
+  <rect y="204" width="240" height="36" fill="#06263a"/>
+  <rect y="228" width="240" height="12" fill="#031524"/>
+  <g transform="translate(-16,0)">
+  <!-- Faint wake ripples behind the fin -->
+  <path d="M 78 158 L 22 154" stroke="#2b8aa6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M 84 166 L 36 170" stroke="#2b8aa6" stroke-width="5" stroke-linecap="round"/>
+  <!-- Dorsal fin: curved leading edge, hooked tip, concave trailing edge -->
+  <path d="M 184 150 Q 150 66 84 26 Q 114 92 104 150 Z" fill="#9fb6c6"/>
+  <path d="M 84 26 Q 114 92 104 150 L 130 150 Q 124 88 84 26 Z" fill="#52697a"/>
+  <!-- White water at the base and the bow -->
+  <ellipse cx="142" cy="152" rx="64" ry="8" fill="#e6f4f8"/>
+  <ellipse cx="194" cy="150" rx="13" ry="6" fill="#e6f4f8"/>
   </g>
-  <polygon points="37,36 47,36 42,52" fill="#c4141d"/>
-  <rect x="40" y="52" width="4" height="16" fill="#c4141d"/>
-  <circle cx="42" cy="70" r="5" fill="#c4141d"/>
-  <polygon points="193,204 203,204 198,188" fill="#c4141d"/>
 </svg>
