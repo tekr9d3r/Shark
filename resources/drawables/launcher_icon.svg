@@ -1,0 +1,19 @@
+<svg width="240" height="240" viewBox="0 0 240 240" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="44" fill="#3d0508"/>
+  <rect x="14" y="14" width="212" height="212" rx="34" fill="#031524"/>
+  <rect x="14" y="128" width="212" height="98" fill="#0a3a50"/>
+  <!-- dorsal fin cutting the surface, the one shape that has to read at 30px -->
+  <polygon points="140,40 92,130 160,130" fill="#6a8293"/>
+  <polygon points="104,130 140,40 124,130" fill="#3e5262"/>
+  <!-- fangs, top and bottom, one bloody -->
+  <g fill="#f3ead6">
+    <polygon points="30,14 54,14 42,52"/><polygon points="66,14 90,14 78,40"/>
+    <polygon points="150,14 174,14 162,40"/><polygon points="186,14 210,14 198,52"/>
+    <polygon points="30,226 54,226 42,188"/><polygon points="66,226 90,226 78,200"/>
+    <polygon points="150,226 174,226 162,200"/><polygon points="186,226 210,226 198,188"/>
+  </g>
+  <polygon points="37,36 47,36 42,52" fill="#c4141d"/>
+  <rect x="40" y="52" width="4" height="16" fill="#c4141d"/>
+  <circle cx="42" cy="70" r="5" fill="#c4141d"/>
+  <polygon points="193,204 203,204 198,188" fill="#c4141d"/>
+</svg>

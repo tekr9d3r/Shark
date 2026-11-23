@@ -1,0 +1,44 @@
+<strings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <string id="AppName">Shark</string>
+
+    <string id="HomeTitle">SHARK</string>
+    <string id="HomeSubtitle">OPEN WATER WARM-UP</string>
+    <string id="HomeSubtitleShort">WARM-UP</string>
+    <string id="HomeStart">START</string>
+    <string id="HomeHowTo">HOW TO</string>
+    <string id="HomeExit">EXIT</string>
+    <string id="Gps">GPS</string>
+
+    <string id="InstrTitleStart">START</string>
+    <string id="InstrBodyStart">Press START and swim easy. For 90 seconds the shark reads your pace. Then it is released, right behind you.</string>
+    <string id="InstrTitlePace">SURVIVE</string>
+    <string id="InstrBodyPace">It hunts a little faster than you. Stay easy: caught in 5-8 min. Build the pace: 10-15 min. It keeps learning, so keep building.</string>
+    <string id="InstrTitleFeel">BY FEEL</string>
+    <string id="InstrSignalRelease">3 knocks - released</string>
+    <string id="InstrSignalClosing">Single buzz - closing</string>
+    <string id="InstrSignalJaws">Heartbeat - on you</string>
+
+    <string id="UnitPer100">/100m</string>
+    <string id="UnitMeters">m</string>
+    <string id="SharkIn">SHARK IN</string>
+
+    <string id="SwimShout">SWIM!</string>
+    <string id="StatePaused">PAUSED</string>
+    <string id="PausedGapLabel">SHARK IS</string>
+
+    <string id="ResultEaten">EATEN</string>
+    <string id="ResultStopped">SWIM SAVED</string>
+    <string id="Survived">YOU SURVIVED</string>
+    <string id="TotalTime">TIME</string>
+
+    <string id="HintNext">SELECT: next</string>
+    <string id="HintDone">SELECT: done</string>
+    <string id="HintResume">SELECT: resume</string>
+    <string id="HintHome">SELECT: home</string>
+
+    <string id="ActivityMenuTitle">MENU</string>
+    <string id="MenuResume">Resume</string>
+    <string id="MenuEndActivity">End Activity</string>
+    <string id="MenuDeleteActivity">Delete Activity</string>
+    <string id="DeleteConfirmMessage">Delete this swim? This cannot be undone.</string>
+</strings>
